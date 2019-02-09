@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NavegationExample</string>
+    <string name="welcome">welcome %s</string>
+</resources>
